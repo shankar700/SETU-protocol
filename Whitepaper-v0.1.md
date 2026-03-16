@@ -7,7 +7,7 @@
 **Author:** Shanker Talluri  
 **Version:** 0.1 (Draft for Community Review)  
 **Date:** March 2026  
-**Repository:** [github.com/setu-protocol/setu](https://github.com/setu-protocol/setu)  
+**Repository:** [github.com/setu-protocol/setu](https://github.com/shankar700/SETU-protocol)  
 **Domain:** [setu-protocol.dev](https://setu-protocol.dev)  
 **License:** Apache 2.0  
 **Status:** Pre-RFC — seeking community feedback
